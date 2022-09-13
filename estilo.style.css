@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,300;1,400&display=swap');
+
+* {
+    font-family: 'Work Sans', sans-serif;
+
+}
+h1{
+    font-family: 'Kaushan Script', sans-serif;
+    text-align: center;
+    color: #0d3546;
+    text-shadow: 1px 1px 3px #a63f6f5d;
+}
+
+body{
+   background-image: linear-gradient(to bottom,#AA3E65, #63c3f0); 
+   background-attachment: fixed;
+   font-size: 1em;
+}
+
+main{
+    
+    padding: 18px;
+    border-radius: 15px;
+    margin: auto;
+    width: 800px;
+    box-shadow: 2px 2px 5px #0a1f2767;
+}
+
+h2{
+    color: #145873;
+}
+
+#foto {
+    border-radius: 100px;
+}
+
+a {
+    color: rgba(75, 103, 155, 0.575);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(212, 28, 28);
+} /* Links visitados */
+
+a:hover {
+    text-decoration: underline;
+}
+
