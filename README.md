@@ -1,4 +1,5 @@
 # Minha-Pagina
-Minha Pagina
 
-Essa foi minha primeira pagina feita foi por mim
+Minhas redes Sociais
+
+Essa foi a primeira pagina feita foi por mim
