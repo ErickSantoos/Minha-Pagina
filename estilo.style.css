@@ -13,7 +13,7 @@ h1{
 }
 
 body{
-   background-image: linear-gradient(to bottom,#AA3E65, #63c3f0); 
+   background-image: linear-gradient(to bottom,#aa3e668a, #63c3f065); 
    background-attachment: fixed;
    font-size: 1em;
 }
